@@ -21,7 +21,7 @@ A full-stack web application built using **Spring Boot, Hibernate, and JSP** tha
 * **Backend:** Java, Spring Boot
 * **Frameworks:** Spring MVC, Spring Data JPA, Hibernate
 * **Frontend:** JSP, HTML, CSS
-* **Database:** H2 / MySQL (configure in application.properties)
+* **Database:** postgesql(configure in application.properties)
 * **Version Control:** Git & GitHub
 
 ---
