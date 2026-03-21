@@ -11,7 +11,6 @@ A full-stack web application built using **Spring Boot, Hibernate, and JSP** tha
 * 🔍 Search and manage job listings
 * 🧩 MVC architecture using Spring Boot
 * 💾 Database integration using Spring Data JPA (Hibernate)
-* 🌐 RESTful backend structure
 * 🎨 Simple frontend using JSP & CSS
 
 ---
@@ -96,7 +95,6 @@ http://localhost:8080
 This project is built as a **learning project** to understand:
 
 * Spring Boot architecture
-* REST APIs
 * Database integration with JPA
 * MVC design pattern
 
